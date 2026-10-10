@@ -6,7 +6,9 @@ alone or against other players on the same Wi-Fi network, with no internet serve
 
 No ads, no purchases, no accounts and no data collection.
 
-Status: early development (project setup).
+Status: version 1.0 is complete and in preparation for a closed test on Google Play.
+It has six themes with two illustrations each, a solo game and a LAN game for 2 to 8
+players.
 
 ## Requirements
 
