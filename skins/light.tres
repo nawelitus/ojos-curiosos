@@ -1,0 +1,27 @@
+[gd_resource type="Resource" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://scripts/game_skin.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+id = "light"
+display_name = "Claro"
+background_top = Color(0.376, 0.8, 0.957, 1)
+background_bottom = Color(0.722, 0.933, 0.878, 1)
+decoration = Color(1, 1, 1, 0.3)
+text = Color(0.094, 0.169, 0.345, 1)
+muted = Color(0.2, 0.33, 0.5, 1)
+panel = Color(1, 1, 1, 1)
+panel_text = Color(0.094, 0.169, 0.345, 1)
+panel_muted = Color(0.4, 0.46, 0.58, 1)
+primary = Color(0.145, 0.42, 0.89, 1)
+accent = Color(0.925, 0.22, 0.45, 1)
+success = Color(0.03, 0.56, 0.38, 1)
+neutral = Color(0.36, 0.42, 0.55, 1)
+button_text = Color(1, 1, 1, 1)
+star = Color(1, 0.72, 0.01, 1)
+star_empty = Color(0.6, 0.65, 0.76, 1)
+corner_radius = 28
+button_depth = 8
+font_scale = 1.0
+font_weight = 600
