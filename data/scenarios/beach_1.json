@@ -1,0 +1,26 @@
+{
+  "format": 2,
+  "id": "beach_1",
+  "title": "Playa",
+  "image": "res://assets/scenarios/beach_1.png",
+  "icons": "res://assets/scenarios/beach_1_icons",
+  "width": 1024,
+  "height": 1536,
+  "objects": [
+    {"id": "crab", "name": "Cangrejo", "x": 312, "y": 1249, "radius": 30},
+    {"id": "starfish", "name": "Estrella", "x": 766, "y": 1352, "radius": 24},
+    {"id": "duck", "name": "Patito", "x": 970, "y": 745, "radius": 22},
+    {"id": "bucket", "name": "Balde", "x": 481, "y": 667, "radius": 22},
+    {"id": "kite", "name": "Cometa", "x": 283, "y": 823, "radius": 28},
+    {"id": "lifebuoy", "name": "Salvavidas", "x": 385, "y": 177, "radius": 26},
+    {"id": "cooler", "name": "Hielera", "x": 497, "y": 957, "radius": 26},
+    {"id": "air_mattress", "name": "Colchoneta", "x": 927, "y": 572, "radius": 50},
+    {"id": "float_ring", "name": "Flotador", "x": 845, "y": 299, "radius": 36},
+    {"id": "net", "name": "Red", "x": 652, "y": 1455, "radius": 26},
+    {"id": "motorboat", "name": "Lancha", "x": 803, "y": 191, "radius": 40},
+    {"id": "rowboat", "name": "Bote", "x": 728, "y": 217, "radius": 36},
+    {"id": "buoy", "name": "Boya", "x": 994, "y": 170, "radius": 14},
+    {"id": "fisherman", "name": "Pescador", "x": 917, "y": 52, "radius": 34},
+    {"id": "bag", "name": "Bolso", "x": 542, "y": 979, "radius": 22}
+  ]
+}

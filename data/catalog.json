@@ -1,0 +1,11 @@
+{
+  "format": 1,
+  "themes": [
+    {"id": "beach", "title": "Playa", "variants": ["beach_1", "beach_2"]},
+    {"id": "city", "title": "Ciudad", "variants": ["city_1", "city_2"]},
+    {"id": "farm", "title": "Granja", "variants": ["farm_1", "farm_2"]},
+    {"id": "space", "title": "Espacio", "variants": ["space_1", "space_2"]},
+    {"id": "forest", "title": "Bosque", "variants": ["forest_1", "forest_2"]},
+    {"id": "park", "title": "Parque", "variants": ["park_1", "park_2"]}
+  ]
+}

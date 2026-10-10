@@ -1,0 +1,28 @@
+{
+  "format": 2,
+  "id": "park_2",
+  "title": "Parque",
+  "image": "res://assets/scenarios/park_2.png",
+  "icons": "res://assets/scenarios/park_2_icons",
+  "width": 1024,
+  "height": 1536,
+  "objects": [
+    {"id": "elephant", "name": "Elefante", "x": 510, "y": 612, "radius": 80},
+    {"id": "lion", "name": "León", "x": 380, "y": 665, "radius": 50},
+    {"id": "seal", "name": "Foca", "x": 630, "y": 690, "radius": 45},
+    {"id": "pins", "name": "Bolos", "x": 465, "y": 842, "radius": 26},
+    {"id": "unicycle", "name": "Monociclo", "x": 780, "y": 1350, "radius": 45},
+    {"id": "fire_hoop", "name": "Aro de fuego", "x": 690, "y": 705, "radius": 35},
+    {"id": "cannon", "name": "Cañón", "x": 770, "y": 805, "radius": 50},
+    {"id": "clown_car", "name": "Auto de payaso", "x": 372, "y": 815, "radius": 50},
+    {"id": "candy_apple", "name": "Manzanas", "x": 865, "y": 985, "radius": 60},
+    {"id": "balloons", "name": "Globos", "x": 393, "y": 1130, "radius": 55},
+    {"id": "monkey", "name": "Mono", "x": 548, "y": 808, "radius": 45},
+    {"id": "tightrope", "name": "Equilibrista", "x": 130, "y": 265, "radius": 40},
+    {"id": "cage_wagon", "name": "Jaula", "x": 870, "y": 370, "radius": 70},
+    {"id": "carousel", "name": "Carrusel", "x": 140, "y": 1135, "radius": 100},
+    {"id": "helter_skelter", "name": "Tobogán", "x": 150, "y": 470, "radius": 75},
+    {"id": "ferris_wheel", "name": "Rueda", "x": 830, "y": 65, "radius": 80},
+    {"id": "popcorn_cart", "name": "Palomitas", "x": 665, "y": 975, "radius": 55}
+  ]
+}

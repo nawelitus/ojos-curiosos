@@ -1,0 +1,30 @@
+{
+  "format": 2,
+  "id": "space_2",
+  "title": "Espacio",
+  "image": "res://assets/scenarios/space_2.png",
+  "icons": "res://assets/scenarios/space_2_icons",
+  "width": 1024,
+  "height": 1536,
+  "objects": [
+    {"id": "rocket", "name": "Cohete", "x": 180, "y": 255, "radius": 55},
+    {"id": "saucer", "name": "Platillo", "x": 360, "y": 290, "radius": 50},
+    {"id": "panels", "name": "Paneles solares", "x": 440, "y": 385, "radius": 60},
+    {"id": "dish", "name": "Antena", "x": 630, "y": 405, "radius": 50},
+    {"id": "dome", "name": "Cúpula", "x": 510, "y": 480, "radius": 85},
+    {"id": "mushroom", "name": "Hongo", "x": 890, "y": 440, "radius": 75},
+    {"id": "submarine", "name": "Submarino", "x": 540, "y": 910, "radius": 55},
+    {"id": "dome_house", "name": "Casa", "x": 775, "y": 905, "radius": 60},
+    {"id": "plant", "name": "Planta", "x": 225, "y": 1085, "radius": 70},
+    {"id": "dog", "name": "Perro", "x": 200, "y": 1225, "radius": 45},
+    {"id": "astronaut", "name": "Astronauta", "x": 335, "y": 495, "radius": 45},
+    {"id": "robot", "name": "Robot", "x": 680, "y": 625, "radius": 40},
+    {"id": "rover", "name": "Rover", "x": 545, "y": 630, "radius": 60},
+    {"id": "chest", "name": "Cofre", "x": 935, "y": 1325, "radius": 35},
+    {"id": "jelly", "name": "Medusa", "x": 240, "y": 60, "radius": 45},
+    {"id": "planet", "name": "Planeta", "x": 540, "y": 75, "radius": 60},
+    {"id": "satellite", "name": "Satélite", "x": 770, "y": 55, "radius": 40},
+    {"id": "flag", "name": "Bandera", "x": 870, "y": 280, "radius": 25},
+    {"id": "cat", "name": "Gato", "x": 835, "y": 740, "radius": 35}
+  ]
+}

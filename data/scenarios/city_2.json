@@ -1,0 +1,30 @@
+{
+  "format": 2,
+  "id": "city_2",
+  "title": "Ciudad",
+  "image": "res://assets/scenarios/city_2.png",
+  "icons": "res://assets/scenarios/city_2_icons",
+  "width": 1024,
+  "height": 1536,
+  "objects": [
+    {"id": "clock_tower", "name": "Torre del reloj", "x": 392, "y": 102, "radius": 70},
+    {"id": "rowboat", "name": "Bote", "x": 820, "y": 580, "radius": 40},
+    {"id": "fruit_basket", "name": "Cesta de fruta", "x": 308, "y": 672, "radius": 28},
+    {"id": "bread_basket", "name": "Cesta de pan", "x": 120, "y": 1159, "radius": 28},
+    {"id": "wagon", "name": "Carreta", "x": 130, "y": 320, "radius": 55},
+    {"id": "horse", "name": "Caballo", "x": 228, "y": 343, "radius": 40},
+    {"id": "balloon", "name": "Globo aerostático", "x": 175, "y": 46, "radius": 40},
+    {"id": "bicycle", "name": "Bicicleta", "x": 200, "y": 1300, "radius": 45},
+    {"id": "lantern", "name": "Farol", "x": 377, "y": 548, "radius": 24},
+    {"id": "barrel", "name": "Barril", "x": 920, "y": 1249, "radius": 30},
+    {"id": "weather_vane", "name": "Veleta", "x": 560, "y": 65, "radius": 28},
+    {"id": "birdhouse", "name": "Casita de pájaros", "x": 997, "y": 480, "radius": 22},
+    {"id": "swan", "name": "Cisne", "x": 940, "y": 1100, "radius": 32},
+    {"id": "crates", "name": "Cajas", "x": 905, "y": 1355, "radius": 50},
+    {"id": "umbrella", "name": "Sombrilla", "x": 940, "y": 762, "radius": 36},
+    {"id": "mailbox", "name": "Buzón", "x": 1000, "y": 909, "radius": 26},
+    {"id": "fountain", "name": "Fuente", "x": 370, "y": 762, "radius": 55},
+    {"id": "drum", "name": "Tambor", "x": 508, "y": 1015, "radius": 28},
+    {"id": "sign", "name": "Cartel", "x": 160, "y": 983, "radius": 40}
+  ]
+}

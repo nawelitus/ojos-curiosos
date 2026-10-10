@@ -1,0 +1,33 @@
+{
+  "format": 2,
+  "id": "farm_2",
+  "title": "Granja",
+  "image": "res://assets/scenarios/farm_2.png",
+  "icons": "res://assets/scenarios/farm_2_icons",
+  "width": 1024,
+  "height": 1536,
+  "objects": [
+    {"id": "apple_crate", "name": "Manzanas", "x": 170, "y": 235, "radius": 40},
+    {"id": "beehive", "name": "Colmena", "x": 975, "y": 1045, "radius": 30},
+    {"id": "pumpkin", "name": "Calabaza", "x": 750, "y": 1260, "radius": 40},
+    {"id": "scarecrow", "name": "Espantapájaros", "x": 755, "y": 1115, "radius": 50},
+    {"id": "pump", "name": "Bomba de agua", "x": 440, "y": 1010, "radius": 40},
+    {"id": "cart", "name": "Carro", "x": 385, "y": 1405, "radius": 60},
+    {"id": "hay_wagon", "name": "Carro de heno", "x": 808, "y": 212, "radius": 75},
+    {"id": "goat", "name": "Cabra", "x": 600, "y": 260, "radius": 38},
+    {"id": "turkey", "name": "Pavo", "x": 318, "y": 247, "radius": 38},
+    {"id": "donkey", "name": "Burro", "x": 150, "y": 755, "radius": 60},
+    {"id": "milk_churn", "name": "Lechera", "x": 597, "y": 1015, "radius": 28},
+    {"id": "rake", "name": "Rastrillo", "x": 908, "y": 1235, "radius": 35},
+    {"id": "rowboat", "name": "Bote", "x": 805, "y": 625, "radius": 55},
+    {"id": "mailbox", "name": "Buzón", "x": 335, "y": 756, "radius": 22},
+    {"id": "bicycle", "name": "Bicicleta", "x": 150, "y": 1330, "radius": 55},
+    {"id": "tractor", "name": "Tractor", "x": 685, "y": 150, "radius": 50},
+    {"id": "owl", "name": "Búho", "x": 968, "y": 768, "radius": 28},
+    {"id": "cow", "name": "Vaca", "x": 905, "y": 940, "radius": 55},
+    {"id": "farmhouse", "name": "Casa", "x": 200, "y": 450, "radius": 90},
+    {"id": "barn", "name": "Granero", "x": 690, "y": 848, "radius": 95},
+    {"id": "silo", "name": "Silo", "x": 530, "y": 715, "radius": 65},
+    {"id": "dog", "name": "Perro", "x": 357, "y": 1115, "radius": 30}
+  ]
+}

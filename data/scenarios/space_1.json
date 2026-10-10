@@ -1,0 +1,33 @@
+{
+  "format": 2,
+  "id": "space_1",
+  "title": "Espacio",
+  "image": "res://assets/scenarios/space_1.png",
+  "icons": "res://assets/scenarios/space_1_icons",
+  "width": 1024,
+  "height": 1536,
+  "objects": [
+    {"id": "rocket", "name": "Cohete", "x": 115, "y": 330, "radius": 70},
+    {"id": "saturn", "name": "Saturno", "x": 430, "y": 80, "radius": 90},
+    {"id": "mars", "name": "Marte", "x": 630, "y": 160, "radius": 60},
+    {"id": "earth", "name": "Tierra", "x": 830, "y": 130, "radius": 95},
+    {"id": "astronaut", "name": "Astronauta", "x": 270, "y": 540, "radius": 60},
+    {"id": "shuttle", "name": "Transbordador", "x": 185, "y": 690, "radius": 90},
+    {"id": "saucer", "name": "Platillo", "x": 320, "y": 215, "radius": 55},
+    {"id": "purple_moon", "name": "Luna morada", "x": 960, "y": 380, "radius": 75},
+    {"id": "alien", "name": "Alien", "x": 775, "y": 470, "radius": 50},
+    {"id": "robot", "name": "Robot", "x": 860, "y": 685, "radius": 55},
+    {"id": "jetpack", "name": "Mochila cohete", "x": 745, "y": 810, "radius": 50},
+    {"id": "dish", "name": "Antena", "x": 880, "y": 870, "radius": 38},
+    {"id": "tower", "name": "Torre", "x": 955, "y": 880, "radius": 60},
+    {"id": "lander", "name": "Módulo lunar", "x": 350, "y": 850, "radius": 80},
+    {"id": "rover", "name": "Rover", "x": 510, "y": 930, "radius": 70},
+    {"id": "flag", "name": "Bandera", "x": 680, "y": 940, "radius": 25},
+    {"id": "dog", "name": "Perro", "x": 120, "y": 1050, "radius": 65},
+    {"id": "cat", "name": "Gato", "x": 380, "y": 1120, "radius": 55},
+    {"id": "tank", "name": "Tanque", "x": 755, "y": 1070, "radius": 42},
+    {"id": "digger", "name": "Excavadora", "x": 790, "y": 1230, "radius": 65},
+    {"id": "ufo", "name": "Ovni", "x": 925, "y": 545, "radius": 40},
+    {"id": "ship", "name": "Nave", "x": 640, "y": 640, "radius": 75}
+  ]
+}
