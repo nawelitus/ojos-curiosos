@@ -1,0 +1,35 @@
+Copyright (c) 2026 nawelitus. All rights reserved.
+
+This repository is public so that the privacy policy of the app can be published
+with GitHub Pages and so that the source can be inspected. It is not an open source
+release. Except where stated below, no permission is granted to copy, modify,
+distribute, sublicense or use the game's source code, graphics (icon, illustrations,
+store graphics and screenshots) or the name "Ojos Curiosos". GitHub's Terms of
+Service allow other GitHub users to view and fork this repository on GitHub; they
+grant no other rights.
+
+The illustrations were made with an AI tool: whatever rights exist in them are
+reserved, but this notice does not claim more than the law gives.
+
+Third-party material and its licenses
+
+1. Godot Engine. The game is built with Godot Engine, released under the MIT license
+   (https://godotengine.org/license). Godot's license text and those of its bundled
+   components are shown inside the app under "Créditos y licencias".
+
+2. Fredoka typeface. assets/fonts/fredoka/Fredoka.ttf is Copyright 2016 The Fredoka
+   Project Authors (https://github.com/hafontia/Fredoka-One), designed by Milena
+   Brandão and Hafontia, and licensed under the SIL Open Font License 1.1. The full
+   license is in assets/fonts/fredoka/OFL.txt. You may use the font under those
+   terms.
+
+Scenario illustrations
+
+The scenario illustrations under assets/scenarios/ were generated with an AI image
+tool (ChatGPT, by OpenAI) from prompts written for this game. They are not
+hand-drawn and are not presented as such.
+
+Any third-party art, sound or font added later is listed here and in the in-app
+credits screen together with its license.
+
+Contact: softwelitus@gmail.com

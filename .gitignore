@@ -1,0 +1,21 @@
+# Godot 4
+.godot/
+*.translation
+
+# Android / export
+# export_presets.cfg is tracked on purpose (include filters, permissions).
+# Keystore paths and passwords never go in it: release signing comes from
+# environment variables.
+/android/
+/build/
+*.keystore
+*.jks
+*.apk
+*.aab
+*.idsig
+
+# Local tooling
+.atl/
+
+# Raw art waiting to be reviewed; approved files are copied to assets/
+/art_inbox/
